@@ -1,5 +1,5 @@
 <?php
 
-echo phpinfo();
+echo "This is chukky app service plan";
 
 ?>
